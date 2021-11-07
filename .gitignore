@@ -1,4 +1,6 @@
-/readme
-/mods/real_weapon_sounds
-/audio/*.txt
+readme/*
+!/readme/readmeModders.txt
+mods/real_weapon_sounds
+audio/*.txt
+colaboradores.txt
 
